@@ -1,3 +1,4 @@
+//Sam was here
 function updateNumber(id) {
 
     const numElement = document.getElementById("number");
